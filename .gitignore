@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+*.RData
+*.Rds
+ndvi_recent.tif
+*.tif
+*.tiff
+*.geojson
+*.gpkg
+*.sqlite
+*.db
+.DS_Store
+Thumbs.db
